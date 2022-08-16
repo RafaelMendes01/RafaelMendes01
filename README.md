@@ -1,7 +1,7 @@
 ### Hi there 👋 i'm Rafael Mendes
 
 - 🔭 I’m currently working on Tallos
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Nestjs and Vue3
 <div align="center">
   <a href="https://github.com/RafaelMendes01">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelMendes01&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
