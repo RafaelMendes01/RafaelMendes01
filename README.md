@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Nestjs and Vue3
 <div align="center">
   <a href="https://github.com/RafaelMendes01">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelMendes01&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelMendes01&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" style="marginRight: 10%"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMendes01&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
